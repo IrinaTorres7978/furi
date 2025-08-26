@@ -1,6 +1,6 @@
 {
   "name": "furi",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "description": "CLI & API for MCP management",
   "main": "src/index.ts",
   "scripts": {
